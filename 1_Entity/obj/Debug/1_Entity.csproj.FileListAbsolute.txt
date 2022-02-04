@@ -1,0 +1,6 @@
+D:\C# Projeler\Console_lessons\Markett Otomasyonu\1_Entity\bin\Debug\1_Entity.dll
+D:\C# Projeler\Console_lessons\Markett Otomasyonu\1_Entity\bin\Debug\1_Entity.pdb
+D:\C# Projeler\Console_lessons\Markett Otomasyonu\1_Entity\obj\Debug\1_Entity.csprojAssemblyReference.cache
+D:\C# Projeler\Console_lessons\Markett Otomasyonu\1_Entity\obj\Debug\1_Entity.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Console_lessons\Markett Otomasyonu\1_Entity\obj\Debug\1_Entity.dll
+D:\C# Projeler\Console_lessons\Markett Otomasyonu\1_Entity\obj\Debug\1_Entity.pdb
